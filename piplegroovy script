@@ -1,5 +1,5 @@
 node{
- def mavenHome = tool name: "maven3.8.5"
+ def mavenHome = tool name: "maven3.8.4"
 
 //Checkout Stage
 stage('CheckoutCode'){
